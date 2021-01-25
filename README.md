@@ -1,0 +1,2 @@
+# Coins
+Math Challenge - JavaScript
